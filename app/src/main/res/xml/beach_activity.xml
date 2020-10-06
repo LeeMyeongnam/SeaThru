@@ -1,0 +1,5 @@
+<ServiceResponse>
+	<cmmMsgHeader>
+		<errMsg>서비스 URL 오류</errMsg>
+	</cmmMsgHeader>
+</ServiceResponse>
